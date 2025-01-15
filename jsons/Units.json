@@ -4,6 +4,8 @@
 		"unitType": "Sword",
 		"movement": 3,
 		"strength": 15,
+	        "replaces": "Warrior",
+	        "uniqueTo": "Los pendemaxx (Rateii jugala bien te lo rogamos todos)",
 		"cost": 40,
 		"obsoleteTech": "Metal Casting",
 		"upgradesTo": "Swordsman",
@@ -14,5 +16,75 @@
 			{"text": "This is your basic, club-swinging fighter."}
 		]
 	},
+	{
+		"name": "Esclavo de aguas dulces",
+		"unitType": "Civilian",
+		"movement": 10,
+		"replaces": "Worker",
+		"uniques": ["Can build [Land] improvements on tiles", "Automation is a primary action"],
+		"uniqueTo": "Los pendemaxx (Rateii jugala bien te lo rogamos todos)",
+		"cost": 10
+	},
+
+	{
+		"name": "Jake",
+		"unitType": "Scout",
+		"replaces" "Scout",
+		"movement": 12,
+		"strength": 1,
+		"cost": 5,
+		"obsoleteTech": "Scientific Theory",
+		"uniques": ["May upgrade to [Archer] through ruins-like effects", "Never appears as a Barbarian unit"],
+		"promotions": ["Ignore terrain cost"],
+		"uniqueTo": "Los pendemaxx (Rateii jugala bien te lo rogamos todos)",
+		"attackSound": "nonmetalhit"
+	},
+	{
+		"name": "Rata lanza dardos",
+		"unitType": "Archery",
+		"movement": 2,
+		"strength": 6,
+		"rangedStrength": 10,
+		"cost": 40,
+		"replaces": "Archer",
+		"requiredTech": "Archery",
+		"obsoleteTech": "Construction",
+		"upgradesTo": "Composite Bowman",
+		"uniqueTo": "Los pendemaxx (Rateii jugala bien te lo rogamos todos)",
+		"attackSound": "arrow"
+	},
+	{
+		"name": "Ratas escupidoras a caballo",
+		"unitType": "Archery",
+		"movement": 5,
+		"strength": 8,
+		"rangedStrength": 12,
+		"cost": 56,
+		"requiredTech": "The Wheel",
+		"requiredResource": "Horses",
+		"upgradesTo": "Knight",
+		"obsoleteTech": "Chivalry",
+		"replaces": "Chariot Archer",
+		"uniqueTo": "Los pendemaxx (Rateii jugala bien te lo rogamos todos)",
+		"uniques": ["No defensive terrain bonus", "Rough terrain penalty", "Never appears as a Barbarian unit"],
+		"attackSound": "arrow"
+	},
+	{
+		"name": "Rata con lanza",
+		"unitType": "Sword",
+		"movement": 2,
+		"strength": 11,
+		"cost": 56,
+		"replaces": "Spearman",
+		"requiredTech": "Bronze Working",
+		"obsoleteTech": "Civil Service",
+		"upgradesTo": "Pikeman",
+		"uniqueTo": "Los pendemaxx (Rateii jugala bien te lo rogamos todos)",
+		"uniques": ["[+50]% Strength <vs [Mounted] units>"],
+		"attackSound": "metalhit"
+	},
+	
+	
+	
 ]
     
