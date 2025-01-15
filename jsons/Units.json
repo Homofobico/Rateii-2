@@ -29,7 +29,7 @@
 	{
 		"name": "Jake",
 		"unitType": "Scout",
-		"replaces" "Scout",
+		"replaces": "Scout",
 		"movement": 12,
 		"strength": 1,
 		"cost": 5,
