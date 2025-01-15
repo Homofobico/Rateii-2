@@ -1,1 +1,18 @@
-
+[
+  {
+		"name": "Rattata",
+		"unitType": "Sword",
+		"movement": 3,
+		"strength": 15,
+		"cost": 40,
+		"obsoleteTech": "Metal Casting",
+		"upgradesTo": "Swordsman",
+		"uniques" : ["May upgrade to [Spearman] through ruins-like effects"], 
+    "uniques": ["Can build [Land] improvements on tiles", "Automation is a primary action"],
+		"attackSound": "nonmetalhit",
+        "civilopediaText": [
+			{"text": "This is your basic, club-swinging fighter."}
+		]
+	},
+]
+    
