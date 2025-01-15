@@ -1,1 +1,11 @@
-
+[
+  {
+		"name": "Monumento a Rateii",
+		"culture": 4,
+		"cost": 40,
+		"hurryCostModifier": 40,
+		"maintenance": 1,
+    "replaces": "Monument",
+		"uniques": ["Destroyed when the city is captured"]
+	},
+  
