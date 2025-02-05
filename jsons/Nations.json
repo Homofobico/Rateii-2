@@ -16,7 +16,7 @@
     "uniqueName": "La venganza de Rateii",
 		"uniques": ["[+100]% [Food] [in all cities]", "[+10 Happiness] [in all cities]", "[+25]% [Science] [in all cities]", "[+5 Faith] [in capital]"],
 	  
-	  "outerColor": [252,15,92],
+	  "outerColor": [0,15,0],
 	  "innerColor": [128,20,128]
   }
 ]
