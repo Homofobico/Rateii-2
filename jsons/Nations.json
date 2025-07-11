@@ -10,22 +10,8 @@
 		"attacked": "Terrible decision we te voy a papear",
 		"defeated": "Me salio mal spawn we rematch o miedo",
 		"introduction": "No te voy a papear we, por ahora",
-
-  }
-  {
-        "name": "Cultured",
-        "friendBonusUniques": [
-            "[+3 Culture] <before the [Medieval era]>",
-            "[+6 Culture] <starting from the [Medieval era]> <before the [Industrial era]>",
-            "[+13 Culture] <starting from the [Industrial era]>"
-        ],
-        "allyBonusUniques": [
-            "[+6 Culture] <before the [Medieval era]>",
-            "[+12 Culture] <starting from the [Medieval era]> <before the [Industrial era]>",
-            "[+26 Culture] <starting from the [Industrial era]>"
-        ],
-   },
-   {
+  
+   
     "cities": ["AGUAS DULCES","Pueblo Marron","El Chuy","Montevideo","Castillos","Rateiiland","Malvin Norte"]
 
     "uniqueName": "La venganza de Rateii",
