@@ -99,7 +99,18 @@
 		"uniqueTo": "Los pendemaxx (Rateii jugala bien te lo rogamos todos)",
 		"attackSound": "horse"
 	},
-	
+	{
+		"name": "Titán fundador (de aguas dulces)",
+		"unitType": "Civilian",
+		"unbuildable",
+		"uniqueTo": "Los pendemaxx (Rateii jugala bien te lo rogamos todos)",
+		"movement": 2,
+		"cannot be purchased",
+		"uniques": ["Founds a new city <by consuming this unit>", "Excess Food converted to Production when under construction",
+			"Requires at least [2] population"],
+		"hurryCostModifier": 20
+		
+	},
 	
 	
  
