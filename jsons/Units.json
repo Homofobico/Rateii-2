@@ -105,6 +105,7 @@
 		"unbuildable": "True",
 		"uniqueTo": "Los pendemaxx (Rateii jugala bien te lo rogamos todos)",
 		"movement": 2,
+		"replaces": "Settler",
 		"cannot be purchased": "True",
 		"uniques": ["Founds a new city <by consuming this unit>", "Excess Food converted to Production when under construction",
 			"Requires at least [2] population"],
